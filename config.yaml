@@ -1,0 +1,15 @@
+scoring:
+  url_score: 30
+  ip_score: 20
+  suspicious_api_factor: 8   # per suspicious import (capped)
+  high_entropy_threshold: 7.5
+  high_entropy_score: 20
+  elevated_entropy_threshold: 6.5
+  elevated_entropy_score: 8
+  autorun_score: 15
+  packer_score: 10
+  small_exe_bonus: 5
+  suspicious_token_score: 10
+thresholds:
+  malicious: 60
+  suspicious: 30
