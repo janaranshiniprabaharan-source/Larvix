@@ -4,7 +4,8 @@ Early detection, total protection. Larvix is a lightweight static analysis tool 
 
 It extracts strings, detects embedded URLs/IPs, computes entropy (packing/obfuscation hints), inspects PE (Windows executables) imports, and applies heuristic scoring to produce a human-readable verdict and a structured report.
 
-Author: Ratheesh Sekar
+Developed and Customized by: Janaranshini P
+Project: Larvix – Static Worm Malware Scanner
 
 
 ## Key features
@@ -245,6 +246,9 @@ Note: A legacy top-level `reports.py` also exists; the scanner uses the `reports
 
 ## Credits
 
-Created by Ratheesh Sekar.
+Customized and maintained by Janaranshini P
 
-License: Not specified in this repository.
+Original project and source code:
+Ratheesh Sekar
+
+Project: Larvix – Static Worm Malware Scanner
